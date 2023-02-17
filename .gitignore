@@ -1,0 +1,5 @@
+/.streamlit
+/.vscode
+/grocery.py
+/import mysql.connector.py
+/working - import mysql.connector setup to always data.py
