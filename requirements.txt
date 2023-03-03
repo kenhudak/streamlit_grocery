@@ -1,4 +1,4 @@
 gsheetsdb==0.1.13.1
-streamlit
-pandas
-plotly_express
+streamlit==1.16.0
+pandas==1.5.2
+plotly_express==0.4.1
