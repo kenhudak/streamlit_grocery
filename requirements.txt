@@ -1,1 +1,5 @@
 gsheetsdb==0.1.13.1
+streamlit
+from gsheetsdb import connect
+pandas
+plotly_express
